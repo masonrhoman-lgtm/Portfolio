@@ -12,7 +12,7 @@ This project analyzes supermarket sales data using Python for data cleaning and 
 ## Project Structure
 - `data/` – raw and cleaned datasets
 - `notebooks/` – Python analysis
-- `powerbi/` – Power BI dashboard (if included)
+- `images/` – Power BI dashboard images
 
 ## Key Questions
 - What products and categories drive revenue and profit?
@@ -21,5 +21,5 @@ This project analyzes supermarket sales data using Python for data cleaning and 
 
 ## How to Run
 1. Clone the repo
-2. Install dependencies
-3. Run `sales_analysis.ipynb`
+2. Install files (ensure they are in the same folder) 
+3. Run `market_analysis.ipynb`
