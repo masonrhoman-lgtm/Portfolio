@@ -5,9 +5,7 @@ This project analyzes supermarket sales data using Python for data cleaning and 
 
 ## Tools Used
 - Python (pandas, numpy, matplotlib, seaborn)
-- Jupyter Notebook
 - Power BI
-- GitHub
 
 ## Project Structure
 - `data/` – raw and cleaned datasets
